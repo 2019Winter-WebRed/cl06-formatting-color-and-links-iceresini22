@@ -1,0 +1,38 @@
+/*
+* Isabella Ceresini
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+* {
+
+}
+/* Body attributes here */
+
+body {
+    background-color: ghostwhite; width: 90%; margin:auto;
+
+}
+
+header {background-color: lightpink;}
+main {background-color: lightsteelblue;}
+footer {background-color: darkcyan;}
+
+#puppies {width:350px; height: 200px; }
+
+body{font-family: "Times New Roman", Times, serif;}
+
+h1{
+    font-size: 150%;
+    text-align: center;
+    text-decoration: underline overline;
+}
+h2{
+    font-size: 150%;
+    text-align: center;
+}
+
+a:link {color: darkmagenta;}
+a:hover {color: darkblue;}
